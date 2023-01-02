@@ -1,7 +1,7 @@
 # Data-Driven Model Identification via Hyperparameter Optimization for the Autonomous Racing System
 
 ## Abstract
-In this letter, we propose a model identification method via hyperparameter optimization (MIHO). Our method is able to identify the parameters of the parametric models in a data-driven manner. We utilize MIHO for the dynamics parameters of the AV-21, the full-scaled autonomous race vehicle, and integrate them into our model-based control system. In experiments, the models with the optimized parameters demonstrate the generalization ability of the vehicle dynamics model. We further conduct extensive field tests to validate our system. The tests show that our race system leverages the learned model dynamics well and successfully performs obstacle avoidance and high-speed driving over $200 km/h$ at the Indianapolis Motor Speedway and Las Vegas Motor Speedway.
+In this letter, we propose a model identification method via hyperparameter optimization (MIHO). Our method is able to identify the parameters of the parametric models in a data-driven manner. We utilize MIHO for the dynamics parameters of the AV-21, the full-scaled autonomous race vehicle, and integrate them into our model-based planning and control systems. In experiments, the models with the optimized parameters demonstrate the generalization ability of the vehicle dynamics model. We further conduct extensive field tests to validate our model-based system. The tests show that our race systems leverage the learned model dynamics well and successfully perform obstacle avoidance and high-speed driving over $200 km/h$ at the Indianapolis Motor Speedway and Las Vegas Motor Speedway.
 
 ## Comments
 - Preprint paper will be available soon.
