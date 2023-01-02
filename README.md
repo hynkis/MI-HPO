@@ -8,7 +8,7 @@ In this letter, we propose a model identification method via hyperparameter opti
 - Submitted to [IEEE Control System Letters (L-CSS)](http://ieee-cssletters.dei.unipd.it/)
 
 ## Video demonstration
-- Deployments at the Indianapolis Motor Speedway (IMS) and Las Vegas Motor Speedway (LVMS)
+- Field tests at the Indianapolis Motor Speedway (IMS) and Las Vegas Motor Speedway (LVMS)
 [![Youtube video](http://img.youtube.com/vi/xxxxx/0.jpg)](https://youtu.be/xxxxx)
 
 ## Usage
