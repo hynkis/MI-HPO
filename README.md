@@ -20,8 +20,8 @@ python3 run_model_identification.py
 python3 plot_learned_model.py
 ```
 
-## Results of Model Identification (Example dataset)
-Since the dataset of AV-21 is confidential, we made a reasonable example dataset to run our codes.
+## Results of Model Identification (Sample tire dataset)
+Since the dataset of AV-21 is confidential, we made a sample tire dataset to run our codes.
 <p align="center">
     <img src = "results/result_FyA_FyB.png" width="60%" height="60%">
 </p>
