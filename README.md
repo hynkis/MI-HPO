@@ -13,10 +13,10 @@ In this letter, we propose a model identification method via hyperparameter opti
 
 ## Usage
 ```bash
-# Run model identification
+# Run model identification. A result would be saved as '.csv' in results directory.
 python3 run_model_identification.py
 
-# Plot the learned model with data
+# Plot the learned model with data.
 python3 plot_learned_model.py
 ```
 
