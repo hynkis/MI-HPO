@@ -9,7 +9,7 @@ In this letter, we propose a model identification method via hyperparameter opti
 
 ## Video demonstration
 - Field tests at the Indianapolis Motor Speedway (IMS) and Las Vegas Motor Speedway (LVMS)
-[![Youtube video](http://img.youtube.com/vi/xxxxx/0.jpg)](https://youtu.be/xxxxx)
+[![Youtube video](http://img.youtube.com/vi/A95ZCIqpmJw/0.jpg)](https://youtu.be/A95ZCIqpmJw)
 
 ## Usage
 ```bash
