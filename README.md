@@ -29,13 +29,13 @@ Since the dataset of the race vehicle is confidential, we created a random (but 
 ## References
 Please consider to cite this paper in your publications if this repo helps your research: <https://arxiv.org/abs/2301.01470>
 
-    @misc{Seong23MIHO,
-      author = {Seong, Hyunki and Chung, Chanyoung and Shim, David Hyunchul},
-      title = {Data-Driven Model Identification via Hyperparameter Optimization for Autonomous Racing Systems},
-      howpublished = {arXiv:2301.01470},
-      year = {2023}
+    @article{seong23MIHO,
+      title={Data-Driven Model Identification via Hyperparameter Optimization for the Autonomous Racing System},
+      author={Seong, Hyunki and Chung, Chanyoung and Shim, David Hyunchul},
+      journal={arXiv preprint arXiv:2301.01470},
+      year={2023}
     }
-
+    
 We refer the following for Hyperband:
 - Hyperband paper: <https://arxiv.org/abs/1603.06560>
 - Implementation based on [hyperband](https://github.com/bkj/hyperband)
