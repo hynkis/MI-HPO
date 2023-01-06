@@ -30,7 +30,7 @@ Since the dataset of the race vehicle is confidential, we created a random (but 
 Please consider to cite this paper in your publications if this repo helps your research: <https://arxiv.org/abs/2301.01470>
 
     @article{seong23MIHO,
-      title={Data-Driven Model Identification via Hyperparameter Optimization for the Autonomous Racing System},
+      title={Data-Driven Model Identification via Hyperparameter Optimization for Autonomous Racing Systems},
       author={Seong, Hyunki and Chung, Chanyoung and Shim, David Hyunchul},
       journal={arXiv preprint arXiv:2301.01470},
       year={2023}
