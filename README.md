@@ -5,7 +5,7 @@ In this letter, we propose a model parameter identification method via a hyperpa
 
 ## Comments
 - Preprint paper: https://arxiv.org/abs/2301.01470
-- Submitted to [IEEE Control System Letters (L-CSS)](http://ieee-cssletters.dei.unipd.it/) (Accepted)
+- Submitted to [IEEE Control System Letters (L-CSS)](https://ieeexplore.ieee.org/abstract/document/10102102) (Accepted)
 
 ## Video demonstration
 - Field tests at the Indianapolis Motor Speedway (IMS) and Las Vegas Motor Speedway (LVMS)
@@ -29,11 +29,12 @@ Since the dataset of the race vehicle is confidential, we created a random (but 
 ## References
 Please consider to cite this paper in your publications if this repo helps your research: <https://arxiv.org/abs/2301.01470>
 
-    @article{seong23MIHPO,
+    @article{seong2023model,
       title={Model Parameter Identification via a Hyperparameter Optimization Scheme for Autonomous Racing Systems},
       author={Seong, Hyunki and Chung, Chanyoung and Shim, David Hyunchul},
-      journal={arXiv preprint arXiv:2301.01470},
-      year={2023}
+      journal={IEEE Control Systems Letters},
+      year={2023},
+      publisher={IEEE}
     }
     
 We refer the following for Hyperband:
