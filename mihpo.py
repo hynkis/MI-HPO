@@ -7,10 +7,10 @@ import numpy as np
 import ujson as json
 from math import log, ceil
 
-class MIHO:
+class MIHPO:
     def __init__(self, model, R=1e+5, eta=4):
         """
-        Model Identification via Hyperparameter Optimization (MIHO)
+        Model Parameter Identification via a Hyperparameter Optimization Scheme (MIHPO)
             - R: the maximum amount of resource.
             - eta: a value that determines the proportion of the discarded configurations.
         """

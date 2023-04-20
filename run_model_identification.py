@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import csv
 import time
-from miho import MIHO
+from mihpo import MIHPO
 from mutation_model import ExponentialGaussianDistribution
 
 sys.path.insert(1, './model')
@@ -203,7 +203,7 @@ if __name__ == "__main__":
         print("Loading data has done :", data_buffer.shape)
         
         model = TireModelID(mutation_model=ExponentialGaussianDistribution, data_buffer=data_buffer)
-        optimizer = MIHO(model, R=1e+5, eta=4)
+        optimizer = MIHPO(model, R=1e+5, eta=4)
         optimizer.run() # R=1e+5, eta=5
 
         # - Save learned model parameters
